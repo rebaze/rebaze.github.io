@@ -1,0 +1,103 @@
+.header-1-sub .pt-page-2 .background {
+    background-image: url("../assets/Toni_Gletscher.jpeg");
+}
+.header-1-sub .pt-page-1 .background {
+    background-image: url("../assets/Zodiacal-Light.jpg");
+}
+.header-14-sub .background {
+    background-image: url("../assets/Toni_Gletscher.jpeg");
+
+    opacity: 60;
+    filter: alpha(opacity=2000);
+    opacity: 0.6;
+    filter: alpha(opacity=20);
+}
+
+.header-10-sub .background {
+    background-image: url("../assets/run2.jpg");
+    opacity: 60;
+    filter: alpha(opacity=2000);
+    opacity: 0.6;
+    filter: alpha(opacity=20);
+}
+
+.header-14-sub .hero-unit > * {
+    display: table-cell;
+    vertical-align: middle;
+    border: 8px;
+    padding: 25px 30px;
+    padding: 25px 30px;
+    text-align: left;
+}
+
+.header-8 .navbar .nav > li > a {
+    color: #003d5f;
+}
+.header-8 .navbar .nav > li > a:hover,
+.header-8 .navbar .nav > li > a:focus,
+.header-8 .navbar .nav > li > a.active {
+    color: #ef155d;
+}
+.header-8 .navbar .nav > li.active > a {
+    color: #ef155d;
+}
+.header-8 .navbar .nav > li.active > a:hover,
+.header-8 .navbar .nav > li.active > a:focus,
+.header-8 .navbar .nav > li.active > a.active {
+    color: #ef155d;
+}
+
+.header-14-sub .subscribe-form form .input-group .btn {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 0;
+    -webkit-border-radius: 0 6px 6px 0;
+    -moz-border-radius: 0 6px 6px 0;
+    border-radius: 0 6px 6px 0;
+    border: 0;
+    color: #fff;
+    background: #ef155d;
+    line-height: 22px;
+    font-size: 17px;
+    font-weight: 500;
+}
+.contacts-1 form input:focus,
+.contacts-1 form textarea:focus {
+    border-color: #ef155d;
+}
+.contacts-1 form .btn.btn-primary:hover,
+.contacts-1 form .btn.btn-primary:focus {
+    background-color: #ef155d;
+}
+.contacts-1 form .btn.btn-primary:active,
+.contacts-1 form .btn.btn-primary.active {
+    background-color: #ef155d;
+}
+.btn-primary {
+    color: #ffffff;
+    background-color: #ef155d;
+}
+.header-14-sub .subscribe-form .btn.btn-primary:hover,
+.header-14-sub .subscribe-form .btn.btn-primary:focus {
+    background-color: #ef155d;
+}
+.header-14-sub .subscribe-form .btn.btn-primary:active,
+.header-14-sub .subscribe-form .btn.btn-primary.active {
+    background-color: #ef155d;
+}
+
+.contacts-1 a {
+    color: #ef155d;
+}
+
+.contacts-1 a:hover,
+.contacts-1 a:focus,
+.contacts-1 a.active {
+    color: #ef155d;
+}
+.contacts-1 .phone big {
+    color: #ef155d;
+}
+.bg-wet-asphalt {
+    background-color: #003d5f;
+}
