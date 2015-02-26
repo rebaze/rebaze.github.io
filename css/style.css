@@ -21,6 +21,14 @@
     filter: alpha(opacity=20);
 }
 
+a:hover,
+a:focus,
+a.active,
+a {
+    color: #ef155d;
+}
+
+
 .header-14-sub .hero-unit > * {
     display: table-cell;
     vertical-align: middle;
