@@ -69,6 +69,10 @@ a {
     font-size: 17px;
     font-weight: 500;
 }
+
+.contacts-1 {
+  padding: 40px;
+}
 .contacts-1 form input:focus,
 .contacts-1 form textarea:focus {
     border-color: #ef155d;
@@ -108,4 +112,59 @@ a {
 }
 .bg-wet-asphalt {
     background-color: #003d5f;
+}
+
+.blog-3 .title img {
+  display: block;
+  margin: 0 auto 37px;
+  -webkit-transform: rotate(0);
+  -moz-transform: rotate(0);
+  -ms-transform: rotate(0);
+  -o-transform: rotate(0);
+  transform: rotate(0);
+}
+
+.blog-5 {
+  padding-top: 60px;
+  padding-bottom: 20px;
+}
+
+.blog-5 .lead + p {
+  margin-top: 0px;
+}
+
+.blog-5 .quote {
+  position: relative;
+  margin: 0 0;
+  padding: 20px 0 20px;
+  color: #34495e;
+  background: #f5f6f6;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: normal;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+  letter-spacing: 0px;
+}
+.blog-5 .quote:before {
+  content: none;
+  display: block;
+  margin: 0 auto 35px;
+  text-align: center;
+}
+.blog-5 .quote .author {
+  margin-top: 35px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #ef155d;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  letter-spacing: 0;
+  padding-bottom: 20px;
+}
+
+
+.content-5 {
+  padding-top: 80px;
+  padding-bottom: 0px;
+  position: relative;
 }
