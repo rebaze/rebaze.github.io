@@ -25,7 +25,7 @@ a:hover,
 a:focus,
 a.active,
 a {
-    color: #ef155d;
+    color: #E60040;
 }
 
 
@@ -44,15 +44,15 @@ a {
 .header-8 .navbar .nav > li > a:hover,
 .header-8 .navbar .nav > li > a:focus,
 .header-8 .navbar .nav > li > a.active {
-    color: #ef155d;
+    color: #E60040;
 }
 .header-8 .navbar .nav > li.active > a {
-    color: #ef155d;
+    color: #E60040;
 }
 .header-8 .navbar .nav > li.active > a:hover,
 .header-8 .navbar .nav > li.active > a:focus,
 .header-8 .navbar .nav > li.active > a.active {
-    color: #ef155d;
+    color: #E60040;
 }
 
 .header-14-sub .subscribe-form form .input-group .btn {
@@ -64,7 +64,7 @@ a {
     border-radius: 0 6px 6px 0;
     border: 0;
     color: #fff;
-    background: #ef155d;
+    background: #E60040;
     line-height: 22px;
     font-size: 17px;
     font-weight: 500;
@@ -75,40 +75,40 @@ a {
 }
 .contacts-1 form input:focus,
 .contacts-1 form textarea:focus {
-    border-color: #ef155d;
+    border-color: #E60040;
 }
 .contacts-1 form .btn.btn-primary:hover,
 .contacts-1 form .btn.btn-primary:focus {
-    background-color: #ef155d;
+    background-color: #E60040;
 }
 .contacts-1 form .btn.btn-primary:active,
 .contacts-1 form .btn.btn-primary.active {
-    background-color: #ef155d;
+    background-color: #E60040;
 }
 .btn-primary {
     color: #ffffff;
-    background-color: #ef155d;
+    background-color: #E60040;
 }
 .header-14-sub .subscribe-form .btn.btn-primary:hover,
 .header-14-sub .subscribe-form .btn.btn-primary:focus {
-    background-color: #ef155d;
+    background-color: #E60040;
 }
 .header-14-sub .subscribe-form .btn.btn-primary:active,
 .header-14-sub .subscribe-form .btn.btn-primary.active {
-    background-color: #ef155d;
+    background-color: #E60040;
 }
 
 .contacts-1 a {
-    color: #ef155d;
+    color: #E60040;
 }
 
 .contacts-1 a:hover,
 .contacts-1 a:focus,
 .contacts-1 a.active {
-    color: #ef155d;
+    color: #E60040;
 }
 .contacts-1 .phone big {
-    color: #ef155d;
+    color: #E60040;
 }
 .bg-wet-asphalt {
     background-color: #003d5f;
@@ -156,7 +156,7 @@ a {
   margin-top: 35px;
   font-size: 18px;
   font-weight: 500;
-  color: #ef155d;
+  color: #E60040;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 0;
   padding-bottom: 20px;
