@@ -14,11 +14,12 @@
 }
 
 .header-10-sub .background {
-    background-image: url("../assets/run2.jpg");
-    opacity: 60;
+    background-image: url("../assets/eye1.jpg");
+    /**opacity: 60;
     filter: alpha(opacity=2000);
     opacity: 0.6;
     filter: alpha(opacity=20);
+    **/
 }
 
 a:hover,
