@@ -1,3 +1,4 @@
 _site/
 /localStorage.json
 .jekyll-metadata
+.DS_Store
